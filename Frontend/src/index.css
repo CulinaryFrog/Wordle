@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wordle-green: #538d4e;
+  --color-wordle-yellow: #b59f3b;
+  --color-wordle-gray: #3a3a3c;
+}
+
+body {
+  background-color: #121213; /* Classic Wordle dark mode */
+}
